@@ -27,13 +27,12 @@ For more technical details, please refer to our full paper:
 If you find this work or the code useful, please cite our paper:
 
 ```bibtex
-@inproceedings{zhang2025case,
+@misc{zhang2025caseconditionawaresentence,
       title={CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement}, 
       author={Gaifan Zhang and Yi Zhou and Danushka Bollegala},
-      year={2026},
-      booktitle={Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)},
+      year={2025},
       eprint={2503.17279},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={[https://arxiv.org/abs/2503.17279](https://arxiv.org/abs/2503.17279)}
+      url={https://arxiv.org/abs/2503.17279}, 
 }

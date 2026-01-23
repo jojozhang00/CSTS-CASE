@@ -18,3 +18,22 @@
 We use the **C-STS-Reannotated** dataset. 
 Please download the training and validation files (`csts_train_reannotated.csv` and `csts_validation_reannotated.csv`) from Hugging Face repository:
 **[https://huggingface.co/datasets/LivNLP/C-STS-Reannotated](https://huggingface.co/datasets/LivNLP/C-STS-Reannotated)**
+
+### Paper Link
+For more technical details, please refer to our full paper:  
+**[CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement](https://arxiv.org/abs/2503.17279)**
+
+### Citation
+If you find this work or the code useful, please cite our paper:
+
+```bibtex
+@inproceedings{zhang2025case,
+      title={CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement}, 
+      author={Gaifan Zhang and Yi Zhou and Danushka Bollegala},
+      year={2026},
+      booktitle={Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)},
+      eprint={2503.17279},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={[https://arxiv.org/abs/2503.17279](https://arxiv.org/abs/2503.17279)}
+}
